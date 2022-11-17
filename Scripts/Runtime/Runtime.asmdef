@@ -1,6 +1,10 @@
 {
     "name": "DoubTech.VoiceSdkSRS",
     "rootNamespace": "",
+    "references": [
+        "GUID:92a2c14febc027049bf15fe8da646123",
+        "GUID:4504b1a6e0fdcc3498c30b266e4a63bf"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
