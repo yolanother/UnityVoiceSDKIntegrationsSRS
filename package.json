@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "displayName": "",
+  "displayName": "DoubTech - Voice SDK - SRS",
+  "name": "com.doubtech.unity.voicesdk.srs",
   "version": "0.0.1",
   "unity": "2019.4",
   "description": "",
